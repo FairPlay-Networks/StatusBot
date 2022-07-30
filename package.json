@@ -1,0 +1,27 @@
+{
+  "name": "status-bot",
+  "version": "1.0.0",
+  "description": "StatusBot für Server von FairPlay-Networks",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FairPlay-Networks/StatusBot.git"
+  },
+  "keywords": [
+    "discord",
+    "status",
+    "bot"
+  ],
+  "author": "Luis Bartel <info@BartelLuis.de>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.9.2"
+  },
+  "bugs": {
+    "url": "https://github.com/FairPlay-Networks/StatusBot/issues"
+  },
+  "homepage": "https://github.com/FairPlay-Networks/StatusBot#readme"
+}
